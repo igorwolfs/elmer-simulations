@@ -1,0 +1,5 @@
+! ----- names for bodies -----
+$ MeshGroup001 = 1
+! ----- names for boundaries -----
+$ MeshGroup = 1
+$ bnry4 = 2

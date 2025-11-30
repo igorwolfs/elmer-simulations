@@ -15,4 +15,6 @@ Solutions
 1. Select chamfered Cube
 2. Run part->check geometry->enable BOPCheck
 3. Run part -> refine shape
-4. Export as STEP
+4. Export as  / .unv
+
+In this case it fixed the issue.
